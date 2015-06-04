@@ -1,0 +1,11 @@
+{
+  "name": "es5-sham-ie8",
+  "version": "1.0.0",
+  "description": "IE8 / React / Webpack compatible sham",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Stern",
+  "license": "MIT"
+}
